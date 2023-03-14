@@ -1,7 +1,7 @@
 hello atguigu! hello Git!  slave
 hello atguigu! hello Git!
 hello atguigu! hello Git!
-hello atguigu! hello Git!
+hello atguigu! hello Git!  master test
 hello atguigu! hello Git!
 hello atguigu! hello Git!
 hello atguigu! hello Git!
